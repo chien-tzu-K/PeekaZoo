@@ -69,3 +69,4 @@ struct AnimalDetails : Identifiable{
     let realImageURL3: String
     
 }
+//測試可刪除文字
