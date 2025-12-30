@@ -458,7 +458,7 @@ struct AnimalInfo: View {
                     .padding(.top, 16)
 
                     
-                    
+                    //測試可刪除文字
                 }
 
             }
